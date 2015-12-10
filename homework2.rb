@@ -1,4 +1,5 @@
 # RUBY HW 2
+# Let's get started
 #PART 1
 
 # The fizzbuzz method takes the value of parameter num and using
